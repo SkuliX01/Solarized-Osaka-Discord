@@ -10,4 +10,6 @@ I hope you will all enjoy the theme.
 ## Preview
 ---
 
-![Preview](https://i.ibb.co/21T0jRQg/image.png "title")
+
+
+![Preview](https://i.ibb.co/21T0jRQg/image.png)
